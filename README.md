@@ -4,6 +4,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+[link to the code of conduct](https://github.com/WrightWillT/DATA-598-WI20-week-7/blob/master/CODE_OF_CONDUCT.md)
+
 The goal of mysimplecompendium02 is to ...
 
 ## Installation
