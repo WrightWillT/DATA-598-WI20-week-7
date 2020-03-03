@@ -28,7 +28,16 @@ goodbye <- function(name_input){
 }
 
 # new function #2
+#' Title
+#'
+#' @param text_input
+#'
+#' @return
+#' @export
+#'
+#' @examples
 americanizer <- function(text_input){
+
   text_output <- gsub("(.*)colour(.*)","\\1color\\2", text_input, perl = TRUE)
   text_output <- gsub("(.*)summarise(.*)","\\1summarize\\2", text_output, perl = TRUE)
   text_output <- gsub("(.*)brilliant(.*)","\\1great\\2", text_output, perl = TRUE)
